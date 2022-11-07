@@ -1,7 +1,7 @@
 public class Medicine {
     void displayLabel(){
         System.out.println("Company : Himalaya");
-        System.out.println("Bangalore");
+        System.out.println("Place : Bangalore");
     }
 }
 class Tablet extends Medicine{
